@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "PrefectHQ",
+  "repo": "compat-tests",
+  "versions": [
+    {
+      "commit": "6e159c6f386daebba09dc7120a87dac5cb609c9d",
+      "parsed_at": "2026-11-08T02:49:35.105856+00:00",
+      "filetree": "filetree/6e159c6f386daebba09dc7120a87dac5cb609c9d.nq.gz",
+      "blobs": [
+        "blob/8571ffb15eaed950e2be6f4b4996cb6d71d3708b.nq.gz",
+        "blob/24d1e11c78bfc46511323c1e1a1583b7872de978.nq.gz",
+        "blob/1e702d4f534e7de347313e599cd9cb07018694ee.nq.gz",
+        "blob/5f27773a8eabcec2a6b0b036edb8e0e01504b6c0.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
